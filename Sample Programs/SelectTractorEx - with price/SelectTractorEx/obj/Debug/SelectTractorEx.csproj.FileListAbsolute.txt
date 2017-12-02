@@ -1,0 +1,45 @@
+C:\Cyril-Lectures 2014\Visual Programming\Lecture 8-  More Windows forms\8-Examples\SelectTractorEx\SelectTractorEx\bin\Debug\SelectTractorEx.exe.config
+C:\Cyril-Lectures 2014\Visual Programming\Lecture 8-  More Windows forms\8-Examples\SelectTractorEx\SelectTractorEx\obj\Debug\SelectTractorEx.csprojResolveAssemblyReference.cache
+C:\Cyril-Lectures 2014\Visual Programming\Lecture 8-  More Windows forms\8-Examples\SelectTractorEx\SelectTractorEx\obj\Debug\SelectTractorEx.Properties.Resources.resources
+C:\Cyril-Lectures 2014\Visual Programming\Lecture 8-  More Windows forms\8-Examples\SelectTractorEx\SelectTractorEx\obj\Debug\SelectTractorEx.csproj.GenerateResource.Cache
+C:\Cyril-Lectures 2014\Visual Programming\Lecture 8-  More Windows forms\8-Examples\SelectTractorEx\SelectTractorEx\bin\Debug\SelectTractorEx.exe
+C:\Cyril-Lectures 2014\Visual Programming\Lecture 8-  More Windows forms\8-Examples\SelectTractorEx\SelectTractorEx\bin\Debug\SelectTractorEx.pdb
+C:\Cyril-Lectures 2014\Visual Programming\Lecture 8-  More Windows forms\8-Examples\SelectTractorEx\SelectTractorEx\obj\Debug\SelectTractorEx.exe
+C:\Cyril-Lectures 2014\Visual Programming\Lecture 8-  More Windows forms\8-Examples\SelectTractorEx\SelectTractorEx\obj\Debug\SelectTractorEx.pdb
+C:\Cyril-Lectures 2014\Visual Programming\Lecture 8-  More Windows forms\8-Examples\SelectTractorEx\SelectTractorEx\obj\Debug\SelectTractorEx.frmListsEtc.resources
+C:\Cyril-Lectures 2014\Visual Programming\Lecture 8-  More Windows forms\8-Examples\SelectTractorEx - with price\SelectTractorEx\bin\Debug\SelectTractorEx.exe.config
+C:\Cyril-Lectures 2014\Visual Programming\Lecture 8-  More Windows forms\8-Examples\SelectTractorEx - with price\SelectTractorEx\obj\Debug\SelectTractorEx.exe
+C:\Cyril-Lectures 2014\Visual Programming\Lecture 8-  More Windows forms\8-Examples\SelectTractorEx - with price\SelectTractorEx\obj\Debug\SelectTractorEx.pdb
+C:\Cyril-Lectures 2014\Visual Programming\Lecture 8-  More Windows forms\8-Examples\SelectTractorEx - with price\SelectTractorEx\bin\Debug\SelectTractorEx.exe
+C:\Cyril-Lectures 2014\Visual Programming\Lecture 8-  More Windows forms\8-Examples\SelectTractorEx - with price\SelectTractorEx\bin\Debug\SelectTractorEx.pdb
+C:\Cyril-Lectures 2014\Visual Programming\Lecture 8-  More Windows forms\8-Examples\SelectTractorEx - with price\SelectTractorEx\obj\Debug\SelectTractorEx.csprojResolveAssemblyReference.cache
+C:\Cyril-Lectures 2014\Visual Programming\Lecture 8-  More Windows forms\8-Examples\SelectTractorEx - with price\SelectTractorEx\obj\Debug\SelectTractorEx.frmListsEtc.resources
+C:\Cyril-Lectures 2014\Visual Programming\Lecture 8-  More Windows forms\8-Examples\SelectTractorEx - with price\SelectTractorEx\obj\Debug\SelectTractorEx.Properties.Resources.resources
+C:\Cyril-Lectures 2014\Visual Programming\Lecture 8-  More Windows forms\8-Examples\SelectTractorEx - with price\SelectTractorEx\obj\Debug\SelectTractorEx.csproj.GenerateResource.Cache
+C:\Lectures 2015\Visual Programming 2015\Lecture 8-  More Windows forms\8-Examples\SelectTractorEx - with price\SelectTractorEx\bin\Debug\SelectTractorEx.exe.config
+C:\Lectures 2015\Visual Programming 2015\Lecture 8-  More Windows forms\8-Examples\SelectTractorEx - with price\SelectTractorEx\obj\Debug\SelectTractorEx.exe
+C:\Lectures 2015\Visual Programming 2015\Lecture 8-  More Windows forms\8-Examples\SelectTractorEx - with price\SelectTractorEx\obj\Debug\SelectTractorEx.pdb
+C:\Lectures 2015\Visual Programming 2015\Lecture 8-  More Windows forms\8-Examples\SelectTractorEx - with price\SelectTractorEx\bin\Debug\SelectTractorEx.exe
+C:\Lectures 2015\Visual Programming 2015\Lecture 8-  More Windows forms\8-Examples\SelectTractorEx - with price\SelectTractorEx\bin\Debug\SelectTractorEx.pdb
+C:\Lectures 2015\Visual Programming 2015\Lecture 8-  More Windows forms\8-Examples\SelectTractorEx - with price\SelectTractorEx\obj\Debug\SelectTractorEx.csprojResolveAssemblyReference.cache
+C:\Lectures 2015\Visual Programming 2015\Lecture 8-  More Windows forms\8-Examples\SelectTractorEx - with price\SelectTractorEx\obj\Debug\SelectTractorEx.frmListsEtc.resources
+C:\Lectures 2015\Visual Programming 2015\Lecture 8-  More Windows forms\8-Examples\SelectTractorEx - with price\SelectTractorEx\obj\Debug\SelectTractorEx.Properties.Resources.resources
+C:\Lectures 2015\Visual Programming 2015\Lecture 8-  More Windows forms\8-Examples\SelectTractorEx - with price\SelectTractorEx\obj\Debug\SelectTractorEx.csproj.GenerateResource.Cache
+C:\Lectures 2015\UHC-OOP2\Lecture-6- Windows Forms-Additional controls\SelectTractorEx - with price\SelectTractorEx\obj\Debug\SelectTractorEx.csprojResolveAssemblyReference.cache
+C:\Lectures 2015\UHC-OOP2\Lecture-6- Windows Forms-Additional controls\SelectTractorEx - with price\SelectTractorEx\obj\Debug\SelectTractorEx.frmListsEtc.resources
+C:\Lectures 2015\UHC-OOP2\Lecture-6- Windows Forms-Additional controls\SelectTractorEx - with price\SelectTractorEx\obj\Debug\SelectTractorEx.Properties.Resources.resources
+C:\Lectures 2015\UHC-OOP2\Lecture-6- Windows Forms-Additional controls\SelectTractorEx - with price\SelectTractorEx\obj\Debug\SelectTractorEx.csproj.GenerateResource.Cache
+C:\Lectures 2015\UHC-OOP2\Lecture-6- Windows Forms-Additional controls\SelectTractorEx - with price\SelectTractorEx\bin\Debug\SelectTractorEx.exe.config
+C:\Lectures 2015\UHC-OOP2\Lecture-6- Windows Forms-Additional controls\SelectTractorEx - with price\SelectTractorEx\bin\Debug\SelectTractorEx.exe
+C:\Lectures 2015\UHC-OOP2\Lecture-6- Windows Forms-Additional controls\SelectTractorEx - with price\SelectTractorEx\bin\Debug\SelectTractorEx.pdb
+C:\Lectures 2015\UHC-OOP2\Lecture-6- Windows Forms-Additional controls\SelectTractorEx - with price\SelectTractorEx\obj\Debug\SelectTractorEx.exe
+C:\Lectures 2015\UHC-OOP2\Lecture-6- Windows Forms-Additional controls\SelectTractorEx - with price\SelectTractorEx\obj\Debug\SelectTractorEx.pdb
+X:\Software Implementation\Sample Programs\SelectTractorEx - with price\SelectTractorEx\bin\Debug\SelectTractorEx.exe.config
+X:\Software Implementation\Sample Programs\SelectTractorEx - with price\SelectTractorEx\obj\Debug\SelectTractorEx.csprojResolveAssemblyReference.cache
+X:\Software Implementation\Sample Programs\SelectTractorEx - with price\SelectTractorEx\obj\Debug\SelectTractorEx.frmListsEtc.resources
+X:\Software Implementation\Sample Programs\SelectTractorEx - with price\SelectTractorEx\obj\Debug\SelectTractorEx.Properties.Resources.resources
+X:\Software Implementation\Sample Programs\SelectTractorEx - with price\SelectTractorEx\obj\Debug\SelectTractorEx.csproj.GenerateResource.Cache
+X:\Software Implementation\Sample Programs\SelectTractorEx - with price\SelectTractorEx\bin\Debug\SelectTractorEx.exe
+X:\Software Implementation\Sample Programs\SelectTractorEx - with price\SelectTractorEx\bin\Debug\SelectTractorEx.pdb
+X:\Software Implementation\Sample Programs\SelectTractorEx - with price\SelectTractorEx\obj\Debug\SelectTractorEx.exe
+X:\Software Implementation\Sample Programs\SelectTractorEx - with price\SelectTractorEx\obj\Debug\SelectTractorEx.pdb

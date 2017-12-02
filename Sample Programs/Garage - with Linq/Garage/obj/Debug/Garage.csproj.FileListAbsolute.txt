@@ -1,0 +1,30 @@
+C:\Lectures 2016\Smart Devices 2017\Garage\Garage\bin\Debug\Garage.exe.config
+C:\Lectures 2016\Smart Devices 2017\Garage\Garage\bin\Debug\Garage.exe
+C:\Lectures 2016\Smart Devices 2017\Garage\Garage\bin\Debug\Garage.pdb
+C:\Lectures 2016\Smart Devices 2017\Garage\Garage\obj\Debug\Garage.csprojResolveAssemblyReference.cache
+C:\Lectures 2016\Smart Devices 2017\Garage\Garage\obj\Debug\Garage.frmGarage.resources
+C:\Lectures 2016\Smart Devices 2017\Garage\Garage\obj\Debug\Garage.Properties.Resources.resources
+C:\Lectures 2016\Smart Devices 2017\Garage\Garage\obj\Debug\Garage.csproj.GenerateResource.Cache
+C:\Lectures 2016\Smart Devices 2017\Garage\Garage\obj\Debug\Garage.exe
+C:\Lectures 2016\Smart Devices 2017\Garage\Garage\obj\Debug\Garage.pdb
+C:\Lectures 2017\Commercial Programming 2\Garage\Garage\bin\Debug\Garage.exe.config
+C:\Lectures 2017\Commercial Programming 2\Garage\Garage\obj\Debug\Garage.exe
+C:\Lectures 2017\Commercial Programming 2\Garage\Garage\obj\Debug\Garage.pdb
+C:\Lectures 2017\Commercial Programming 2\Garage\Garage\obj\Debug\Garage.csprojResolveAssemblyReference.cache
+C:\Lectures 2017\Commercial Programming 2\Garage\Garage\obj\Debug\Garage.frmGarage.resources
+C:\Lectures 2017\Commercial Programming 2\Garage\Garage\obj\Debug\Garage.Properties.Resources.resources
+C:\Lectures 2017\Commercial Programming 2\Garage\Garage\obj\Debug\Garage.csproj.GenerateResource.Cache
+C:\Lectures 2017\Commercial Programming 2\Garage\Garage\bin\Debug\Garage.exe
+C:\Lectures 2017\Commercial Programming 2\Garage\Garage\bin\Debug\Garage.pdb
+C:\Lectures 2017\Commercial Programming 2\Garage - with Linq\Garage\bin\Debug\Garage.exe.config
+C:\Lectures 2017\Commercial Programming 2\Garage - with Linq\Garage\obj\Debug\Garage.exe
+C:\Lectures 2017\Commercial Programming 2\Garage - with Linq\Garage\obj\Debug\Garage.pdb
+C:\Lectures 2017\Commercial Programming 2\Garage - with Linq\Garage\obj\Debug\Garage.csprojResolveAssemblyReference.cache
+C:\Lectures 2017\Commercial Programming 2\Garage - with Linq\Garage\obj\Debug\Garage.frmGarage.resources
+C:\Lectures 2017\Commercial Programming 2\Garage - with Linq\Garage\obj\Debug\Garage.Properties.Resources.resources
+C:\Lectures 2017\Commercial Programming 2\Garage - with Linq\Garage\obj\Debug\Garage.csproj.GenerateResource.Cache
+C:\Lectures 2017\Commercial Programming 2\Garage - with Linq\Garage\bin\Debug\Garage.exe
+C:\Lectures 2017\Commercial Programming 2\Garage - with Linq\Garage\bin\Debug\Garage.pdb
+X:\Software Implementation\Sample Programs\Garage - with Linq\Garage\bin\Debug\Garage.exe.config
+X:\Software Implementation\Sample Programs\Garage - with Linq\Garage\obj\Debug\Garage.exe
+X:\Software Implementation\Sample Programs\Garage - with Linq\Garage\obj\Debug\Garage.pdb

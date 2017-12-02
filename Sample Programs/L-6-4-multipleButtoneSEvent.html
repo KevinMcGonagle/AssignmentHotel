@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>L-6-4 Hits</title>
+
+
+</head>
+
+
+
+<body>
+    <h1> Event listeners and buttons</h1>
+    <button type="button" id="btnHit"> Hit me!!</button>
+    <button type="button" id="btnHitAgain"> Hit me twice!!</button>
+    <button type="button" id="btnYetAgain"></button>
+    <script type="text/javascript">
+        window.onload = function () {
+            var hitButton = document.getElementById('btnHit');
+            hitButton.addEventListener('click', clickHitButton);
+
+            var hitButtonAgain = document.getElementById('btnHitAgain');
+            hitButtonAgain.addEventListener('dblclick', dblClickHitAgain);
+        }
+
+        function clickHitButton() {
+            // clicking on the 'Hit Me' button will execute this function!
+            window.alert("Clicked on the Hit Me button ");
+        }
+        function dblClickHitAgain() {
+            // double clicking on 'Hit me again !! will
+            // execute this function
+            window.alert("you just double clicked-Hit me again!! ");
+        }
+    </script>
+
+    <article>
+        <h1> My pets using Sections </h1>
+        <Img src="images/toby.jpg" height="183" width="135" />
+        <Img src="images/leo.jpg" id="leo" height="183" width="135" />
+
+        <p>This part will discuss a range of pets</p>
+        <section>
+            <h2>Dogs</h2>
+            <p>
+                All dogs will be listed here
+            </p>
+            <ul>
+                <li>Toby</li>
+                <li>Jess</li>
+            </ul>
+        </section>
+
+    </article>
+
+</body>
+</html>

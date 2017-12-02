@@ -1,0 +1,9 @@
+C:\Lectures 2015\UHC-OOP2\Lecture-6- Windows Forms-Additional controls\SelectTractorEx - with price\SelectTractorEx\bin\Release\SelectTractorEx.exe.config
+C:\Lectures 2015\UHC-OOP2\Lecture-6- Windows Forms-Additional controls\SelectTractorEx - with price\SelectTractorEx\bin\Release\SelectTractorEx.exe
+C:\Lectures 2015\UHC-OOP2\Lecture-6- Windows Forms-Additional controls\SelectTractorEx - with price\SelectTractorEx\bin\Release\SelectTractorEx.pdb
+C:\Lectures 2015\UHC-OOP2\Lecture-6- Windows Forms-Additional controls\SelectTractorEx - with price\SelectTractorEx\obj\Release\SelectTractorEx.csprojResolveAssemblyReference.cache
+C:\Lectures 2015\UHC-OOP2\Lecture-6- Windows Forms-Additional controls\SelectTractorEx - with price\SelectTractorEx\obj\Release\SelectTractorEx.frmListsEtc.resources
+C:\Lectures 2015\UHC-OOP2\Lecture-6- Windows Forms-Additional controls\SelectTractorEx - with price\SelectTractorEx\obj\Release\SelectTractorEx.Properties.Resources.resources
+C:\Lectures 2015\UHC-OOP2\Lecture-6- Windows Forms-Additional controls\SelectTractorEx - with price\SelectTractorEx\obj\Release\SelectTractorEx.csproj.GenerateResource.Cache
+C:\Lectures 2015\UHC-OOP2\Lecture-6- Windows Forms-Additional controls\SelectTractorEx - with price\SelectTractorEx\obj\Release\SelectTractorEx.exe
+C:\Lectures 2015\UHC-OOP2\Lecture-6- Windows Forms-Additional controls\SelectTractorEx - with price\SelectTractorEx\obj\Release\SelectTractorEx.pdb
